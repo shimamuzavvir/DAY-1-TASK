@@ -29,7 +29,12 @@
 
 5.	 An application level API would still create messages in the conventional HTTP formats, but the underlying layer would then convert these messages into binary. This ensures that web applications created before HTTP/2 can continue functioning as normal when interacting with the new protocol.
 
-2. # OBJECT AND ITS INTERNAL REPRESENTATION IN JAVASCIPT
+
+
+
+
+
+ # OBJECT AND ITS INTERNAL REPRESENTATION IN JAVASCIPT
 
 
 Objects are important data types in javascript. Objects are different than primitive datatypes (i.e. number, string, boolean, etc.). Primitive data types contain one value but Objects can hold many values in form of Key: value pair. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
